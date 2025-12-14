@@ -1,5 +1,9 @@
 *.csv
+*.zip
 
 *.
+.*
+!.gitignore
 
-/data
+data_transorm.py
+
